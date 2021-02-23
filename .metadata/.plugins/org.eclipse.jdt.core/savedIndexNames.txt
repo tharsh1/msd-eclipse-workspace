@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+G:\KJSCE\SEM 6\Micro Services & DevOps\msd-eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1700219030.index
